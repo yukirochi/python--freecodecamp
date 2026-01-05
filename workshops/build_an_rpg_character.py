@@ -1,4 +1,4 @@
-** start of main.py **
+
 
 full_dot = '●'
 empty_dot = '○'
@@ -53,5 +53,5 @@ create_character("ren", 4, 2, 1)
 
 
 
-** end of main.py **
+
 
