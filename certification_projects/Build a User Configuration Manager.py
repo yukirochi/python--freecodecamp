@@ -77,3 +77,4 @@ def view_settings(settings):
     formatted_output = "Current User Settings:\n" + "\n".join(lines)
 
     return formatted_output + "\n"
+
